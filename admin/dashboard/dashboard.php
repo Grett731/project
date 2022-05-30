@@ -100,6 +100,21 @@ background:#666;
                                 
                                 
                                 
+                                 
+                                 <div class="font-icon-list col-lg-2 col-md-3 col-sm-4 col-xs-6 col-xs-6">
+                                <a href="../group/select.php">    <div class="font-icon-detail"><i class="pe-7s-note2"></i>
+                                      <input type="text" value="Group">
+                                    </div></a>
+                                  </div>
+                                
+                                
+                                
+                                 <div class="font-icon-list col-lg-2 col-md-3 col-sm-4 col-xs-6 col-xs-6">
+                                <a href="../event/select.php">    <div class="font-icon-detail"><i class="pe-7s-note2"></i>
+                                      <input type="text" value="Events">
+                                    </div></a>
+                                  </div>
+                                
                                 
                                 
                                 
