@@ -101,7 +101,7 @@ $title="";
                 
               
                  <li>
-                    <a href="../../Social/login.php">
+                    <a href="../../talksta/login.php">
                         <i class="pe-7s-bell"></i>
                         <p>Log Out</p>
                     </a>
@@ -226,7 +226,7 @@ $title="";
                       
                        
                         <li>
-                            <a href="../../Social/login.php">
+                            <a href="../../talksta/login.php">
                                 <p>Log out</p>
                             </a>
                         </li>
