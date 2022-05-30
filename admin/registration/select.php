@@ -205,7 +205,7 @@ $row2 =mysqli_fetch_array($result2);
 			{
 			  
 
-			echo "<td > <img src='../../Social/$row[$k]' width='100'></td>";
+			echo "<td > <img src='../../talksta/$row[$k]' width='100'></td>";
 				
 			}
 			
